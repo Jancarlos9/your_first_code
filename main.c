@@ -1,9 +1,9 @@
 int main():
 {.
   int i;
-  for (i= i <10; i++) {
-  {0;:
-    printf("School\n");
+  for (i = 0; i < 32; i++)
+  {
+    printf("Hello, School\n");
   }
   return 0;
 }
